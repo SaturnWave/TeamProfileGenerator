@@ -1,5 +1,5 @@
 {
-  "name": "team-profile-generator",
+  "name": "team-profilegenerator",
   "version": "1.0.0",
   "description": "Unit 10 homework",
   "main": "app.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyanEllingson/Team-Profile-Generator.git"
+    "url": "git+https://github.com/SaturnWave/TeamProfileGenerator.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RyanEllingson/Team-Profile-Generator/issues"
+    "url": "hhttps://github.com/SaturnWave/TeamProfileGenerator/issues"
   },
-  "homepage": "https://github.com/RyanEllingson/Team-Profile-Generator#readme",
+  "homepage": "https://github.com/SaturnWave/TeamProfileGenerator/#readme",
   "dependencies": {
     "inquirer": "^7.0.0",
     "jest": "^24.9.0"
